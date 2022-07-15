@@ -53,7 +53,7 @@ nav{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-image: url(/homeBg.jpg);
+    background-image: url(homeBg.jpg);
 }
 .home-div{
     background: rgba(0, 0, 0, .1);
